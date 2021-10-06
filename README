@@ -1,0 +1,5 @@
+This is a sample React Native calculator app.
+
+The supported operators are plus, minus, multiply,
+divide and module. Also, numerical literals (integer
+or double data types) can be signed.
