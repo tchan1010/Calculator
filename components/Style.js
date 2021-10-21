@@ -18,7 +18,7 @@ var Style = StyleSheet.create({
     },
 
     orangeButton: {
-        backgroundColor: 'gray',
+        backgroundColor: 'orange',
     },
 
     greenButton: {
