@@ -39,6 +39,9 @@ export default class App extends Component<Props> {
       <View style={Style.rootContainer}>
         <View style={Style.blankContainer}>
         </View>
+        <View style={Style.headContainer}>
+              <Text style={Style.titleText}>Dynetix Calc</Text>
+        </View>
         <View style={Style.displayContainer}>
               <Text style={Style.displayText}>{this._composeOutput()}</Text>
         </View>

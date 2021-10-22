@@ -43,6 +43,13 @@ var Style = StyleSheet.create({
         padding: 20
     },
 
+    titleText: {
+        color: 'white',
+        fontSize: 28,
+        fontWeight: 'bold',
+        padding: 20,
+    },
+
     inputContainer: {
         flex: 8,
         backgroundColor: '#3E606F'
@@ -51,6 +58,13 @@ var Style = StyleSheet.create({
     blankContainer: {
         flex: 1,
         backgroundColor: 'black'
+    },
+
+    headContainer: {
+        flex: 1,
+        backgroundColor: 'blue',
+        alignItems: 'center',
+        justifyContent: 'center',
     },
 
     inputButton: {
