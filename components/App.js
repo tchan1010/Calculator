@@ -130,7 +130,7 @@ export default class App extends Component<Props> {
                               highlight={this.state.selectedSymbol === input}
                               style={Style.inputButton} 
                               backgroundColor={Style.orangeButton}
-                              textStyle={Style.keyButtonText}
+                              textStyle={Style.keyButtonText2}
                               onPress={this._onInputButtonPressed.bind(this, input)}
                               key={r + "-" + i}/>
                             );

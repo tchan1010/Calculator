@@ -88,6 +88,13 @@ var Style = StyleSheet.create({
         color: 'white'
     },
 
+    keyButtonText2: {
+        fontSize: 24,
+        fontWeight: 'bold',
+        color: 'black'
+    },
+
+
     inputRow: {
         flex: 1,
         flexDirection: 'row'
